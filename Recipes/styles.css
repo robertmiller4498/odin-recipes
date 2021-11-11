@@ -1,0 +1,23 @@
+index.html {
+    background-color: rgb(32, 239, 225);
+}
+
+h1{
+    height: 100px;
+    width: 100px;
+    color:black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    }
+
+.lasagna{
+    color:darkseagreen;
+}
+
+.risotto{
+    color:darkseagreen;
+}
+
+.bread_pudding{
+    color:darkseagreen;
+}
