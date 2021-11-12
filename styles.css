@@ -1,25 +1,21 @@
-index.html {
-    background-color: rgb(60, 233, 132);
-}
-
 h1{
     height: 100px;
     width: 100px;
-    color:black;
+    background-color: blueviolet;
     font-family: Arial, sans-serif;
     font-weight: bold;
     }
 
 .lasagna{
-    color:darkseagreen;
+    background-color:darkseagreen;
 }
 
 .risotto{
-    color:darkseagreen;
+    background-color: goldenrod;
 }
 
 .bread_pudding{
-    color:darkseagreen;
+    background-color: red;
 }
 
 img[src*'risotto_photo']{
