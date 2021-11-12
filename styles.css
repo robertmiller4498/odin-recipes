@@ -21,3 +21,8 @@ h1{
 .bread_pudding{
     color:darkseagreen;
 }
+
+img[src*'risotto_photo']{
+    height:100px;
+    width:100px;
+}
